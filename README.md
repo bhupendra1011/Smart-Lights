@@ -1,1 +1,1 @@
-# Smart-Lights12345
+# Smart-Lights123456
